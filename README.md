@@ -1,4 +1,4 @@
-# poker_dealer
+## Poker Dealer
 
 Ce programme renplace le croupier pour jouer au poker
 
