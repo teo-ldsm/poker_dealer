@@ -1,6 +1,6 @@
 ## Poker Dealer
 
-Ce programme renplace le croupier pour jouer au poker
+Ce programme remplace le croupier pour jouer au poker
 
 **! Ne permet pas de jouer seul !**
 
